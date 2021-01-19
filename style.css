@@ -11,3 +11,7 @@ h1{
 p{
     font-weight: bold;
 }
+
+.parrafos>p:nth-child(2){
+    color:purple;
+}
